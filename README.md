@@ -36,7 +36,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
-[swetha ex1.2.pdf](https://github.com/swetha23003160/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./files/13759627/swetha.ex1.2.pdf)
+![Screenshot 2023-12-23 162856](https://github.com/swetha23003160/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/150416143/60078030-dba4-4a2a-8def-af3df76174ed)
 
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
